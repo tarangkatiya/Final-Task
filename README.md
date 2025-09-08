@@ -31,8 +31,6 @@ Enter server host (localhost if running locally).
 Enter server port (e.g., 5000).
 Choose a nickname.
 Usage
-<img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/0997ccf4-1183-4332-a878-3789846a9ec5" />
-
 
 Send a group message: type normally in the input box.
 Send a private message: /w
