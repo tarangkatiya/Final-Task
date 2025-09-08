@@ -47,7 +47,7 @@ Next Steps / Improvements
 Add online user list in the client GUI.
 Implement AES encryption for stronger security.
 
-Author:- Tarang Katiyar.
 Store chat logs in a database.
 Add file-sharing support.
-Screenshots
+
+Author:- Tarang Katiyar.
